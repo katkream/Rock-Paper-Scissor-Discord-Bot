@@ -1,0 +1,19 @@
+{
+  "name": "rock",
+  "version": "1.0.0",
+  "description": "Play rock paper scissor",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.io": "^2.5.2",
+    "discord.js": "^11.2.1",
+    "discord.js-arbitrary-ffmpeg": "^1.0.0",
+    "ffmpeg": "0.0.4",
+    "winston": "^2.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew Hong",
+  "license": "ISC"
+}
